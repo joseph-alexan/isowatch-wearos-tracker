@@ -1,4 +1,4 @@
-# QuantTicker — Wear OS Crypto Tracker
+#ISOWATCH — Wear OS ISO 20022 Crypto Tracker
 
 ![Wear OS](https://img.shields.io/badge/Platform-Wear%20OS-4285F4?style=flat-square&logo=wear-os&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
