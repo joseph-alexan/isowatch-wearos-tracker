@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Quant Price Tracker"
+rootProject.name = "ISOWATCH"
 include(":app")
